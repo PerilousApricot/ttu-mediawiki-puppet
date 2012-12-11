@@ -1,0 +1,3 @@
+[submodule "modules/mediawiki"]
+	path = modules/mediawiki
+	url = git@github.com:PerilousApricot/puppet-mediawiki.git
